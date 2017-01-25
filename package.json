@@ -36,7 +36,7 @@
     "webpack": "^1.1.11",
     "grunt-webpack": "^1.0.6",
     "execSync": "^1.0.1-pre",
-    "transform-loader": "^0.2.0",
+    "transform-loader": "^0.2.3",
     "es6ify": "1.6.0",
     "testee": "^0.2.5",
     "jquery": "^3.1.1",
