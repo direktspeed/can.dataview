@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/bitovi/can.dataview",
   "dependencies": {
-    "baconjs": "^0.7.22",
+    "baconjs": "^0.7.90",
     "can.bacon": "^0.1.3",
     "canjs": "^2.0.7-2",
     "can.eventstream": "^0.2.0"
