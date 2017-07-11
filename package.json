@@ -34,7 +34,7 @@
   "devDependencies": {
     "grunt": "^1.0.1",
     "webpack": "^1.1.11",
-    "grunt-webpack": "^1.0.6",
+    "grunt-webpack": "^3.0.2",
     "execSync": "^1.0.1-pre",
     "transform-loader": "^0.2.0",
     "es6ify": "1.6.0",
